@@ -62,15 +62,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohd-riyaz&theme=tokyonight&no-frame=true&no-bg=true&column=6" alt="GitHub Trophies"/>
-</p>
 
----
 
-## 📈 Contribution Graph
 
 
 
