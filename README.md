@@ -25,8 +25,8 @@ focus:
   - Full Stack Web Development
   - Data Structures & Algorithms
 currently_learning:
-  - System Design
-  - TypeScript
+  - Data Science
+  - cloud Engineering
 fun_fact: "Every bug is just a feature in disguise 🐛"
 ```
 
@@ -35,9 +35,9 @@ fun_fact: "Every bug is just a feature in disguise 🐛"
 ## 🚀 What I'm Up To
 
 - 🔭 Working on **personal projects**
-- 🌱 Deep diving into **System Design & Advanced DSA**
-- 🧠 Sharpening skills in **TypeScript, Next.js and Python**
-- 💡 Exploring **AI/ML integrations in web apps**
+- 🌱 Deep diving into **Data Science & DSA**
+- 🧠 Sharpening skills in **ML and Python**
+- 💡 Exploring **Data Engineering**
 - 💬 Ask me about **JavaScript, React, Python, or anything tech**
 - 📫 Reach me at **mohammedriyaz1030@gmail.com**
 
